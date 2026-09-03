@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fujisan-talhadesignn.webp" alt="Tung Trinh — Backend Developer. Building dependable systems, one considered detail at a time." width="100%" />
+  <img src="./assets/fujisan-landscape-talhadesignn.jpg" alt="Tung Trinh — Backend Developer. Building dependable systems, one considered detail at a time." width="100%" />
 </p>
 
 # Hi, I'm Tùng Trịnh (TgTrh06) 🌿
