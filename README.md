@@ -72,6 +72,4 @@ Thank you for visiting. If something here is useful or interesting, feel free to
 
 *森のように育てる。 / Build with patience, grow with intent.*
 
----
-
-*Last updated: Sep 2026*
+<sub>Last updated · September 2026</sub>
