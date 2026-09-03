@@ -55,7 +55,7 @@ Explore all repositories **[here](https://github.com/TgTrh06?tab=repositories)**
 ## 足跡 / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TgTrh06&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=789F6A&icon_color=789F6A&text_color=8F9887" alt="GitHub activity for TgTrh06" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TgTrh06&hide_border=true&background=00000000&ring=789F6A&fire=789F6A&currStreakLabel=789F6A&sideLabels=8F9887&dates=8F9887&sideNums=E7E3D3&currStreakNum=E7E3D3" alt="GitHub contribution streak for TgTrh06" />
 </p>
 
 ---
